@@ -1,3 +1,5 @@
+package com.numerex.ota;
+
 /*
  * @author:  byron appelt, 2008.09
  * 			 (c) 2008 Ublip

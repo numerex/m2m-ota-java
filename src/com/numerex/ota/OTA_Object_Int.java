@@ -1,3 +1,4 @@
+package com.numerex.ota;
 
 public class OTA_Object_Int extends OTAObject implements iOTAMessage {
 	

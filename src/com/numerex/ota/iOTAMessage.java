@@ -1,3 +1,4 @@
+package com.numerex.ota;
 
 public interface iOTAMessage {
 	

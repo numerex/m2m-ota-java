@@ -1,3 +1,5 @@
+package com.numerex.ota;
+
 public class OTA_Object_Int_Array extends OTAObject implements iOTAMessage {
 	
 	public OTA_Object_Int_Array (int objectid) throws Exception {

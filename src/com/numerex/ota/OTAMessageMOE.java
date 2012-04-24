@@ -1,3 +1,4 @@
+package com.numerex.ota;
 
 public class OTAMessageMOE extends OTAMessageMO implements iOTAMessage {
 

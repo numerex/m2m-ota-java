@@ -1,3 +1,4 @@
+package com.numerex.ota;
 
 import java.util.Date;
 
@@ -52,7 +53,7 @@ public class OTAMessageHeader implements iOTAMessage {
 	}
 
 	public OTAMessageHeader(int messageType, int eventCode, int seqId, long time) throws Exception {
-		
+
 		header = ByteBuffer.allocate(header_size);
 				 
 		// message type

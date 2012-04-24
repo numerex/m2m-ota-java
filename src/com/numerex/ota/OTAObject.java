@@ -1,3 +1,5 @@
+package com.numerex.ota;
+
 import java.io.DataInputStream;
 import java.io.IOException;
 

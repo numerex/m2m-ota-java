@@ -1,3 +1,4 @@
+package com.numerex.ota;
 
 public class OTAMessageMOA extends OTAMessageMO implements iOTAMessage {
 	public OTAMessageMOA( int event_code, int seq_id) throws Exception {

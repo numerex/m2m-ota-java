@@ -1,9 +1,11 @@
+package com.numerex.ota;
 
 import java.io.DataInputStream;
 import java.io.DataOutputStream;
 import java.io.IOException;
 import java.util.Enumeration;
 import java.util.Vector;
+
 public abstract class OTAMessageMO extends OTAMessageIntf implements iOTAMessage {
 
 	public OTAMessageMO(int message_type, int event_code) throws Exception{
